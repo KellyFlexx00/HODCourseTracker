@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409403140989",
+    "project_id": "hodcoursetracker",
+    "storage_bucket": "hodcoursetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409403140989:android:a14220d93ea29133ce7a14",
+        "android_client_info": {
+          "package_name": "HOD.CourseTracker.Package1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfxV6WHRzH_T5KHT3Cb1R8LuW_j7r_EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
